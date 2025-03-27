@@ -19,7 +19,7 @@ Explore Products is a web application that allows users to add and share differe
 To install and run Explore Products on localhost, you need to have Java, Eclipse/STS, and Oracle Database installed on your system. You also need to clone the repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/ib321/Explore-Products.git
+git clone https://github.com/ankitkumar108/Explore-Products.git
 ```
 
 Then, you need to configure the database connection properties in the `application.properties` file located in the `src/main/resources` folder. You need to specify the database URL, username, password, and driver class name. For example:
