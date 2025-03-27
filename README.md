@@ -67,5 +67,5 @@ The Explore Products sample application is licensed under version 2.0 of the [Ap
 
 If you have any questions or feedback about Explore Products, please feel free to contact me:
 
-- Developer Name: Indian Bittu
-- Email: newtonbk123@gmail.com
+- Developer Name: Ankit Kumar
+- Email: ankitkumar108@gmail.com
